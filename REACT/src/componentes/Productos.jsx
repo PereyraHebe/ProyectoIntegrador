@@ -26,7 +26,7 @@ function Productos() {
     console.log(`Los productos con un precio menor a $100000 son: ${productosBaratos}`);
     
     return (
-        <h3> Ejercicio 6: ver resultados en consola </h3>
+        <h3> Ejercicio 6: ver resultados en consola, dentro de componente Productos .</h3>
     )
 }
       
