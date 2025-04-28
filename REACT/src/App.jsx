@@ -26,7 +26,7 @@ function App() {
           
           <div className="caja_saludo flex justify-center items-center mt-8">
             <h2>Bienvenido!</h2>
-            <Saludo nombre="Martín" />
+            <Saludo nombre="Hector" />
             </div>
             <div className='mt-8 flex justify-center'>
             {/*<button className="bg-blue-500 text-white px-4 py-2 rounded hover:bgblue-700">
