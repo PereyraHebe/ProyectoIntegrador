@@ -22,9 +22,13 @@ function App() {
             <Saludo nombre="Martín" />
             </div>
             <div className='mt-8 flex justify-center'>
-            <button style={{ backgroundColor: 'blue', color: 'white', borderRadius: '8px', padding: '8px 16px' }}>
-            Click aquí.
-            </button>
+            {/*<button className="bg-blue-500 text-white px-4 py-2 rounded hover:bgblue-700">
+           Click aqui
+            </button> NO PUDE HACER QUE FUNCIONARA EL FONDO*/}
+            <button className="bg-blue-500 text-blue px-4 py-2 rounded hover:bgblue-700">
+           Click aqui
+            </button> {/*mismo boton (provisorio) con otro color de letra para que se vea*/}
+
           </div>
 
           
