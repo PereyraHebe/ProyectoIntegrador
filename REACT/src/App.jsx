@@ -43,6 +43,7 @@ function App() {
             <Presentacion nombre="Hebe" edad={37} profesion="Estudiante" />
           </div>
         </div>
+        <Productos/>
       </section>
       <PieDePagina/>
     </>
