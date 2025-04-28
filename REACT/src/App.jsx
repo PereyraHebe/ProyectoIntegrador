@@ -4,6 +4,8 @@ import Saludo from './componentes/Saludo';
 import Presentacion from './componentes/Presentacion';
 import Cabecera from './componentes/Cabecera';
 import PieDePagina from './componentes/PieDePagina';
+import Productos from './componentes/Productos';
+
 
 
 function App() {
